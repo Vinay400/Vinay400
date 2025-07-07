@@ -4,7 +4,8 @@
 **Vinay400/Vinay400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![Vinay400's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinay400&show_icons=true&theme=default)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay400&layout=compact)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
